@@ -12,7 +12,6 @@
 ### 🛠️ Technologies I'm working with:
 - 🐍 Python (beginner level)
 - 💻 Git & GitHub
-- 📄 Markdown
 - 🧠 Problem-solving & logic building
 
 ---
