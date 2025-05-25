@@ -1,16 +1,31 @@
-## Hi there 👋
+<h2 align="center">👋 Hi there, I'm Nina Pavlova</h2>
 
-<!--
-**NinaNPavlova/NinaNPavlova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Currently studying Python at <strong>SoftUni</strong><br>
+💻 Passionate about programming, web development, and building real-world projects<br>
+🌱 Learning the fundamentals of programming – variables, conditions, loops, and functions<br>
+📁 Sharing my progress and projects here on GitHub
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies I'm working with:
+- 🐍 Python (beginner level)
+- 💻 Git & GitHub
+- 📄 Markdown
+- 🧠 Problem-solving & logic building
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NPavlova777&show_icons=true&theme=calm)
+
+---
+
+### 📬 Contact Me
+- ✉️ Email: nina.pavlova90@abv.bg
+
+---
+
+_⭐ Thanks for visiting my profile! I'm just getting started, but excited about the journey ahead._
