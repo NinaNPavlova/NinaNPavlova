@@ -16,12 +16,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NPavlova777&show_icons=true&theme=calm)
-
----
-
 ### 📬 Contact Me
 - ✉️ Email: nina.pavlova90@abv.bg
 
