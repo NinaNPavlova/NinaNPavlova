@@ -10,9 +10,10 @@
 ---
 
 ### 🛠️ Technologies I'm working with:
-- 🐍 Python (beginner level)
+- 🐍 Python (Advanced basics / OOP)
+- 🌐 HTML & CSS
 - 💻 Git & GitHub
-- 🧠 Problem-solving & logic building
+- 🧠 Problem solving & algorithmic thinking
 
 ---
 
