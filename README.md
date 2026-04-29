@@ -1,6 +1,3 @@
-<h2 align="center">👋 Hi there, I'm Nina Pavlova</h2>
-
-<p align="center">
 🎓 Currently studying Python at <strong>SoftUni</strong><br>
 💻 Passionate about programming, web development, and building real-world projects<br>
 🌱 Continuously improving my skills in Python, algorithms, and web development<br>
